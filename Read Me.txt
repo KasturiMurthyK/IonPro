@@ -1,0 +1,1 @@
+goto localhost/loginreg_project
